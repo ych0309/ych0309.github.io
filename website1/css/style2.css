@@ -1,0 +1,6 @@
+/*example of a class selector*/
+.first-item {color: yellow;}
+.main-heading {margin-left: 100px;}
+.main-image {width: 500px; border-style: inset; border-color: red;}
+element.style {margin-top:40px; margin-bottom:40px;
+	
